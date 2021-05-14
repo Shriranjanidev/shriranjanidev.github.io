@@ -5,6 +5,7 @@
 ### AWS Projects
 
 [Vaccination Availability Finder](https://github.com/Shriranjanidev/vaccination-availability-lambda)
+
 <img src="./vaccination_availability_notification_arch.png" width="900"/>
 
 ---
